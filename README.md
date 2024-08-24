@@ -1,6 +1,6 @@
-## QR Code Reader
+# QR Code Reader
 
-# Description
+## Description
 
 A QR code reader is created using HTML, CSS, and JavaScript.
 The QR code is generated using a QR API that is utilized in JavaScript. 
