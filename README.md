@@ -1,5 +1,7 @@
 # QR Code Reader
 
+![screencapture-127-0-0-1-5500-index-html-2024-08-24-20_06_43](https://github.com/user-attachments/assets/27c87add-e72d-499c-a1ce-cb2437f198af)
+
 A QR code reader is created using HTML, CSS, and JavaScript.
 The QR code is generated using a QR API that is utilized in JavaScript. 
 In this project, an area is provided to upload an image of a QR code, and as soon as the image is uploaded, the reader automatically attempts to read the QR code. 
