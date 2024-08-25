@@ -1,6 +1,6 @@
 # QR Code Reader
 
-## Link: https://sushmita06github.github.io/QR-Code-Reader/
+Link: https://sushmita06github.github.io/QR-Code-Reader/
 
 A QR code reader is created using HTML, CSS, and JavaScript.
 The QR code is generated using a QR API that is utilized in JavaScript. 
